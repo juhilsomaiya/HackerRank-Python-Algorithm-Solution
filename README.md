@@ -1,2 +1,2 @@
-# HackerRank-Python-Algorithm-Solution
-Solution of the practice algorithms of Hacker Rank
+# Hacker Rank-Python-Algorithm-Solution
+Solution of the algorithms problems of Hacker Rank
